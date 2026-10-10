@@ -1,0 +1,1 @@
+{"status":"ok","timestamp":"2026-10-10T07:51:05.868Z","services":{"gemini":{"status":"healthy","model":"gemini-3.8-flash","message":"Google Gemini API is online and responding cleanly."},"database":{"status":"configured","message":"Database connection parameters detected in environment."}}}

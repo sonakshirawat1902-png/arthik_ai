@@ -1,0 +1,470 @@
+{
+  "currency": "INR",
+  "business": "Rangoli Home & Gifts (Demo)",
+  "months": {
+    "2026-01": {
+      "rev": 549322.5,
+      "cogs": 337640,
+      "gp": 211682.5,
+      "opex": 183500.0,
+      "net": 28182.5,
+      "gm": 38.54,
+      "nm": 5.13,
+      "units": 478
+    },
+    "2026-02": {
+      "rev": 534090.0,
+      "cogs": 325230,
+      "gp": 208860.0,
+      "opex": 182700.0,
+      "net": 26160.0,
+      "gm": 39.11,
+      "nm": 4.9,
+      "units": 478
+    },
+    "2026-03": {
+      "rev": 497675.0,
+      "cogs": 294850,
+      "gp": 202825.0,
+      "opex": 185400.0,
+      "net": 17425.0,
+      "gm": 40.75,
+      "nm": 3.5,
+      "units": 478
+    },
+    "2026-04": {
+      "rev": 456535.0,
+      "cogs": 263800,
+      "gp": 192735.0,
+      "opex": 186900.0,
+      "net": 5835.0,
+      "gm": 42.22,
+      "nm": 1.28,
+      "units": 472
+    },
+    "2026-05": {
+      "rev": 458967.5,
+      "cogs": 264180,
+      "gp": 194787.5,
+      "opex": 190500.0,
+      "net": 4287.5,
+      "gm": 42.44,
+      "nm": 0.93,
+      "units": 481
+    },
+    "2026-06": {
+      "rev": 443342.5,
+      "cogs": 252990,
+      "gp": 190352.5,
+      "opex": 192000.0,
+      "net": -1647.5,
+      "gm": 42.94,
+      "nm": -0.37,
+      "units": 478
+    },
+    "2026-07": {
+      "rev": 450027.5,
+      "cogs": 257480,
+      "gp": 192547.5,
+      "opex": 193900.0,
+      "net": -1352.5,
+      "gm": 42.79,
+      "nm": -0.3,
+      "units": 486
+    },
+    "2026-08": {
+      "rev": 491750.0,
+      "cogs": 284480,
+      "gp": 207270.0,
+      "opex": 196000.0,
+      "net": 11270.0,
+      "gm": 42.15,
+      "nm": 2.29,
+      "units": 512
+    },
+    "2026-09": {
+      "rev": 492217.5,
+      "cogs": 305000,
+      "gp": 187217.5,
+      "opex": 217100.0,
+      "net": -29882.5,
+      "gm": 38.04,
+      "nm": -6.07,
+      "units": 515
+    }
+  },
+  "sep_vs_aug_expense_by_category": {
+    "Rent": {
+      "aug": 45000.0,
+      "sep": 45000.0,
+      "change": 0.0
+    },
+    "Salaries": {
+      "aug": 98000.0,
+      "sep": 98000.0,
+      "change": 0.0
+    },
+    "Utilities": {
+      "aug": 12100.0,
+      "sep": 9400.0,
+      "change": -2700.0
+    },
+    "Software": {
+      "aug": 3500.0,
+      "sep": 3500.0,
+      "change": 0.0
+    },
+    "Marketing": {
+      "aug": 18500.0,
+      "sep": 36000.0,
+      "change": 17500.0
+    },
+    "Logistics": {
+      "aug": 11000.0,
+      "sep": 14800.0,
+      "change": 3800.0
+    },
+    "Packaging": {
+      "aug": 4900.0,
+      "sep": 6300.0,
+      "change": 1400.0
+    },
+    "Miscellaneous": {
+      "aug": 3000.0,
+      "sep": 4100.0,
+      "change": 1100.0
+    }
+  },
+  "products": {
+    "2026-09": [
+      {
+        "id": "P01",
+        "name": "Block-Print Bedsheet Set",
+        "revenue": 132840.0,
+        "cogs": 88060,
+        "gross_profit": 44780.0,
+        "margin_pct": 33.71,
+        "units": 74
+      },
+      {
+        "id": "P05",
+        "name": "Handmade Soap Gift Box",
+        "revenue": 39015.0,
+        "cogs": 13920,
+        "gross_profit": 25095.0,
+        "margin_pct": 64.32,
+        "units": 87
+      },
+      {
+        "id": "P06",
+        "name": "Scented Candle Trio",
+        "revenue": 30765.0,
+        "cogs": 12320,
+        "gross_profit": 18445.0,
+        "margin_pct": 59.95,
+        "units": 44
+      },
+      {
+        "id": "P08",
+        "name": "Cushion Cover Pair",
+        "revenue": 35595.0,
+        "cogs": 18360,
+        "gross_profit": 17235.0,
+        "margin_pct": 48.42,
+        "units": 51
+      },
+      {
+        "id": "P10",
+        "name": "Silk Scarf",
+        "revenue": 31500,
+        "cogs": 16800,
+        "gross_profit": 14700,
+        "margin_pct": 46.67,
+        "units": 21
+      },
+      {
+        "id": "P02",
+        "name": "Blue Pottery Vase",
+        "revenue": 31967.5,
+        "cogs": 17680,
+        "gross_profit": 14287.5,
+        "margin_pct": 44.69,
+        "units": 34
+      },
+      {
+        "id": "P07",
+        "name": "Wooden Jewellery Box",
+        "revenue": 27420.0,
+        "cogs": 14720,
+        "gross_profit": 12700.0,
+        "margin_pct": 46.32,
+        "units": 23
+      },
+      {
+        "id": "P04",
+        "name": "Jaipuri Razai (Quilt)",
+        "revenue": 59200.0,
+        "cogs": 49350,
+        "gross_profit": 9850.0,
+        "margin_pct": 16.64,
+        "units": 21
+      },
+      {
+        "id": "P03",
+        "name": "Brass Diya Set",
+        "revenue": 20310.0,
+        "cogs": 11220,
+        "gross_profit": 9090.0,
+        "margin_pct": 44.76,
+        "units": 34
+      },
+      {
+        "id": "P12",
+        "name": "Ceramic Mug Set",
+        "revenue": 49720.0,
+        "cogs": 40710,
+        "gross_profit": 9010.0,
+        "margin_pct": 18.12,
+        "units": 69
+      },
+      {
+        "id": "P11",
+        "name": "Leather Wallet",
+        "revenue": 17545.0,
+        "cogs": 11200,
+        "gross_profit": 6345.0,
+        "margin_pct": 36.16,
+        "units": 16
+      },
+      {
+        "id": "P09",
+        "name": "Terracotta Planter",
+        "revenue": 16340.0,
+        "cogs": 10660,
+        "gross_profit": 5680.0,
+        "margin_pct": 34.76,
+        "units": 41
+      }
+    ],
+    "2026-08": [
+      {
+        "id": "P01",
+        "name": "Block-Print Bedsheet Set",
+        "revenue": 136170.0,
+        "cogs": 79800,
+        "gross_profit": 56370.0,
+        "margin_pct": 41.4,
+        "units": 76
+      },
+      {
+        "id": "P05",
+        "name": "Handmade Soap Gift Box",
+        "revenue": 38137.5,
+        "cogs": 13600,
+        "gross_profit": 24537.5,
+        "margin_pct": 64.34,
+        "units": 85
+      },
+      {
+        "id": "P06",
+        "name": "Scented Candle Trio",
+        "revenue": 30730.0,
+        "cogs": 12320,
+        "gross_profit": 18410.0,
+        "margin_pct": 59.91,
+        "units": 44
+      },
+      {
+        "id": "P08",
+        "name": "Cushion Cover Pair",
+        "revenue": 36890.0,
+        "cogs": 19080,
+        "gross_profit": 17810.0,
+        "margin_pct": 48.28,
+        "units": 53
+      },
+      {
+        "id": "P02",
+        "name": "Blue Pottery Vase",
+        "revenue": 32157.5,
+        "cogs": 17680,
+        "gross_profit": 14477.5,
+        "margin_pct": 45.02,
+        "units": 34
+      },
+      {
+        "id": "P10",
+        "name": "Silk Scarf",
+        "revenue": 31275.0,
+        "cogs": 16800,
+        "gross_profit": 14475.0,
+        "margin_pct": 46.28,
+        "units": 21
+      },
+      {
+        "id": "P04",
+        "name": "Jaipuri Razai (Quilt)",
+        "revenue": 50880.0,
+        "cogs": 37600,
+        "gross_profit": 13280.0,
+        "margin_pct": 26.1,
+        "units": 16
+      },
+      {
+        "id": "P12",
+        "name": "Ceramic Mug Set",
+        "revenue": 50920.0,
+        "cogs": 37760,
+        "gross_profit": 13160.0,
+        "margin_pct": 25.84,
+        "units": 64
+      },
+      {
+        "id": "P07",
+        "name": "Wooden Jewellery Box",
+        "revenue": 27600,
+        "cogs": 14720,
+        "gross_profit": 12880,
+        "margin_pct": 46.67,
+        "units": 23
+      },
+      {
+        "id": "P03",
+        "name": "Brass Diya Set",
+        "revenue": 19110.0,
+        "cogs": 10560,
+        "gross_profit": 8550.0,
+        "margin_pct": 44.74,
+        "units": 32
+      },
+      {
+        "id": "P11",
+        "name": "Leather Wallet",
+        "revenue": 19580.0,
+        "cogs": 12600,
+        "gross_profit": 6980.0,
+        "margin_pct": 35.65,
+        "units": 18
+      },
+      {
+        "id": "P09",
+        "name": "Terracotta Planter",
+        "revenue": 18300.0,
+        "cogs": 11960,
+        "gross_profit": 6340.0,
+        "margin_pct": 34.64,
+        "units": 46
+      }
+    ],
+    "ytd": [
+      {
+        "id": "P01",
+        "name": "Block-Print Bedsheet Set",
+        "revenue": 1147050.0,
+        "cogs": 682360,
+        "gross_profit": 464690.0,
+        "margin_pct": 40.51,
+        "units": 640
+      },
+      {
+        "id": "P05",
+        "name": "Handmade Soap Gift Box",
+        "revenue": 303547.5,
+        "cogs": 108320,
+        "gross_profit": 195227.5,
+        "margin_pct": 64.32,
+        "units": 677
+      },
+      {
+        "id": "P04",
+        "name": "Jaipuri Razai (Quilt)",
+        "revenue": 648160.0,
+        "cogs": 484100,
+        "gross_profit": 164060.0,
+        "margin_pct": 25.31,
+        "units": 206
+      },
+      {
+        "id": "P06",
+        "name": "Scented Candle Trio",
+        "revenue": 258230.0,
+        "cogs": 103600,
+        "gross_profit": 154630.0,
+        "margin_pct": 59.88,
+        "units": 370
+      },
+      {
+        "id": "P08",
+        "name": "Cushion Cover Pair",
+        "revenue": 318570.0,
+        "cogs": 164520,
+        "gross_profit": 154050.0,
+        "margin_pct": 48.36,
+        "units": 457
+      },
+      {
+        "id": "P02",
+        "name": "Blue Pottery Vase",
+        "revenue": 291555.0,
+        "cogs": 160160,
+        "gross_profit": 131395.0,
+        "margin_pct": 45.07,
+        "units": 308
+      },
+      {
+        "id": "P10",
+        "name": "Silk Scarf",
+        "revenue": 272250.0,
+        "cogs": 145600,
+        "gross_profit": 126650.0,
+        "margin_pct": 46.52,
+        "units": 182
+      },
+      {
+        "id": "P07",
+        "name": "Wooden Jewellery Box",
+        "revenue": 242940.0,
+        "cogs": 129920,
+        "gross_profit": 113020.0,
+        "margin_pct": 46.52,
+        "units": 203
+      },
+      {
+        "id": "P12",
+        "name": "Ceramic Mug Set",
+        "revenue": 424000.0,
+        "cogs": 318010,
+        "gross_profit": 105990.0,
+        "margin_pct": 25.0,
+        "units": 539
+      },
+      {
+        "id": "P03",
+        "name": "Brass Diya Set",
+        "revenue": 137490.0,
+        "cogs": 75900,
+        "gross_profit": 61590.0,
+        "margin_pct": 44.8,
+        "units": 230
+      },
+      {
+        "id": "P11",
+        "name": "Leather Wallet",
+        "revenue": 164395.0,
+        "cogs": 105000,
+        "gross_profit": 59395.0,
+        "margin_pct": 36.13,
+        "units": 150
+      },
+      {
+        "id": "P09",
+        "name": "Terracotta Planter",
+        "revenue": 165740.0,
+        "cogs": 108160,
+        "gross_profit": 57580.0,
+        "margin_pct": 34.74,
+        "units": 416
+      }
+    ]
+  }
+}
